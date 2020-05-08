@@ -1,0 +1,2 @@
+# MNIST_FASHION
+NN, CNN, CTB tested on MINST_FASHION.
